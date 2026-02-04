@@ -92,17 +92,19 @@ roslaunch fgo-mot run.launch
 Please cite the following related works:
 
 ```bibtex
+@article{feng2025lvimot,
+       title   = {LVIMOT: Accurate and robust LiDAR-visual-inertial localization and multi-object tracking in dynamic environments via tightly coupled integration},
+       author  = {Feng, S. and Li, X. and Yan, Z. and others},
+       journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+       year    = {2025},
+       volume  = {230},
+       pages   = {675--692}
+}
+
 @article{feng2023fgomot,
        title   = {Accurate and Real-Time 3D-LiDAR Multi-Object Tracking Using Factor Graph Optimization},
        author  = {Feng, S. and Li, X. and Yan, Z. and others},
        journal = {IEEE Sensors Journal},
-       year    = {2023}
-}
-
-@article{feng2023vimot,
-       title   = {VIMOT: A Tightly-Coupled Estimator for Stereo Visual-Inertial Navigation and Multi-Object Tracking},
-       author  = {Feng, S. and Li, X. and Xia, C. and others},
-       journal = {IEEE Transactions on Instrumentation and Measurement},
        year    = {2023}
 }
 ```
