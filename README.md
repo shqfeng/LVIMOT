@@ -99,33 +99,10 @@ Please cite the following related works:
        year    = {2023}
 }
 
-@article{feng2025lvimot,
-       title   = {LVIMOT: Accurate and robust LiDAR-visual-inertial localization and multi-object tracking in dynamic environments via tightly coupled integration},
-       author  = {Feng, S. and Li, X. and Yan, Z. and others},
-       journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
-       year    = {2025},
-       volume  = {230},
-       pages   = {675--692}
-}
-
-@article{li2024liolot,
-       title   = {LIO-LOT: Tightly-Coupled Multi-object Tracking and LiDAR-Inertial Odometry},
-       author  = {Li, X. and Yan, Z. and Feng, S. and others},
-       journal = {IEEE Transactions on Intelligent Transportation Systems},
-       year    = {2024}
-}
-
 @article{feng2023vimot,
        title   = {VIMOT: A Tightly-Coupled Estimator for Stereo Visual-Inertial Navigation and Multi-Object Tracking},
        author  = {Feng, S. and Li, X. and Xia, C. and others},
        journal = {IEEE Transactions on Instrumentation and Measurement},
        year    = {2023}
-}
-
-@article{feng2024LVMOT,
-       title   = {Tightly Coupled Integration of LiDAR and Vision for 3D Multiobject Tracking},
-       author  = {Feng, S. and Li, X. and Yan, Z. and others},
-       journal = {IEEE Transactions on Intelligent Vehicles},
-       year    = {2024}
 }
 ```
