@@ -81,11 +81,11 @@ roslaunch fgo-mot run.launch
   ```
 
 - Parameters:
-  - tracking/optimization parameters: [fgo-mot/config/config.yaml](fgo-mot/config/config.yaml).
-  - If you maintain a custom tracker config (paths, thresholds), place it under [fgo-mot/config](fgo-mot/config).
+  - tracking/optimization parameters: [fgo-mot/config/config.yaml](./config/config.yaml).
+  - If you maintain a custom tracker config (paths, thresholds), place it under [fgo-mot/config](./config).
 
 - Evaluation:
-  - Results are saved to `./output/tracking_kitti/`.
+  - Results are saved to `~/catkin_ws/output/tracking_kitti/`.
   - Evaluate using 3DMOT metrics [AB3DMOT](https://github.com/xinshuoweng/AB3DMOT).
 
 ## Citation
